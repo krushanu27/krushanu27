@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @krushanu27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >> Just drop a message I will contact you
 
 <!---
