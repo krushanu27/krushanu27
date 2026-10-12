@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Krush 👋
+# Hey, I'm Krushanu 👋
 
 ### AI Engineer in Progress | Data Enthusiast | Full-Stack Developer
 
