@@ -127,13 +127,13 @@ A platform designed to combine employee wellness data, analytics, and machine le
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krushanu27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushanu27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=krushanu27&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
